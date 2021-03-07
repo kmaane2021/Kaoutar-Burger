@@ -1,0 +1,69 @@
+.todo {
+  align-self: center;
+  color: white;
+  
+}
+
+
+
+.todo input {
+  
+  color: black;
+  min-width: 120px;
+  width: 100px;
+  margin-top: 40px;
+  padding: 5px;
+  font-size: 1rem;
+}
+
+
+.todo .add-btn {
+  padding: 10px;
+  color: #fff;
+  display: block;
+  font-size: 12px;
+  font-weight: 500;
+  background-color: rgb(4, 99, 4);
+  border: medium 1px yellow;
+  margin-left: 90px;
+  margin-top: 25px;
+  cursor: pointer;
+}
+
+
+.todo ul {
+  margin-top: 30px;
+  font-size: 1.5rem;
+}
+
+
+.delete {
+  padding: 10px;
+  color: #fff;
+  display: inline-flex;
+  font-size: 12px;
+  font-weight: 500;
+  background-color: rgb(4, 99, 4);
+  border: medium 1px yellow;
+  
+  cursor: pointer;
+}
+
+.completed {
+  padding: 10px;
+  color: #fff;
+  display: inline-flex;
+  font-size: 12px;
+  font-weight: 500;
+  background-color: rgb(4, 99, 4);
+  border: medium 1px yellow;
+  cursor: pointer;
+}
+
+
+h1 {
+color:white;
+font-size: 35px;
+text-decoration: overline underline 2px yellow ;
+
+}
