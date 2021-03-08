@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kaoutar-burger/static/css/main.bf049b1c.chunk.css",
-    "main.js": "/kaoutar-burger/static/js/main.33d3e2b5.chunk.js",
-    "main.js.map": "/kaoutar-burger/static/js/main.33d3e2b5.chunk.js.map",
+    "main.js": "/kaoutar-burger/static/js/main.0a8e369c.chunk.js",
+    "main.js.map": "/kaoutar-burger/static/js/main.0a8e369c.chunk.js.map",
     "runtime-main.js": "/kaoutar-burger/static/js/runtime-main.20dcce99.js",
     "runtime-main.js.map": "/kaoutar-burger/static/js/runtime-main.20dcce99.js.map",
     "static/js/2.a996596a.chunk.js": "/kaoutar-burger/static/js/2.a996596a.chunk.js",
     "static/js/2.a996596a.chunk.js.map": "/kaoutar-burger/static/js/2.a996596a.chunk.js.map",
     "index.html": "/kaoutar-burger/index.html",
-    "precache-manifest.c0ad7a282463da94bee36043c473fc3a.js": "/kaoutar-burger/precache-manifest.c0ad7a282463da94bee36043c473fc3a.js",
+    "precache-manifest.17c4732e062f94c594a4bb114d3bcdb4.js": "/kaoutar-burger/precache-manifest.17c4732e062f94c594a4bb114d3bcdb4.js",
     "service-worker.js": "/kaoutar-burger/service-worker.js",
     "static/css/main.bf049b1c.chunk.css.map": "/kaoutar-burger/static/css/main.bf049b1c.chunk.css.map",
     "static/js/2.a996596a.chunk.js.LICENSE.txt": "/kaoutar-burger/static/js/2.a996596a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.20dcce99.js",
     "static/js/2.a996596a.chunk.js",
     "static/css/main.bf049b1c.chunk.css",
-    "static/js/main.33d3e2b5.chunk.js"
+    "static/js/main.0a8e369c.chunk.js"
   ]
 }

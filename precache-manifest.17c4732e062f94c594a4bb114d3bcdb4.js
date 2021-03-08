@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "174ca0835887c3d791b1e817f4679fe5",
+    "revision": "8bc670e2f1e31ad6ed23ad49249cf939",
     "url": "/kaoutar-burger/index.html"
   },
   {
-    "revision": "e4f9685a2c8f50d358b3",
+    "revision": "fd8f21604e588b7a3d4d",
     "url": "/kaoutar-burger/static/css/main.bf049b1c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kaoutar-burger/static/js/2.a996596a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e4f9685a2c8f50d358b3",
-    "url": "/kaoutar-burger/static/js/main.33d3e2b5.chunk.js"
+    "revision": "fd8f21604e588b7a3d4d",
+    "url": "/kaoutar-burger/static/js/main.0a8e369c.chunk.js"
   },
   {
     "revision": "d0ea21f81900db80516e",

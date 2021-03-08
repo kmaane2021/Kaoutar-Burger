@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kaoutar-burger/precache-manifest.c0ad7a282463da94bee36043c473fc3a.js"
+  "/kaoutar-burger/precache-manifest.17c4732e062f94c594a4bb114d3bcdb4.js"
 );
 
 self.addEventListener('message', (event) => {
