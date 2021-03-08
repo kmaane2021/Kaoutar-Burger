@@ -2,7 +2,7 @@
   "name": "react-todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kmaane.github.io/kaoutar-burger",
+  "homepage": "https://kmaane2021.github.io/kaoutar-burger",
   "dependencies": {
     "@firebase/firestore": "^2.1.6",
     "@testing-library/jest-dom": "^4.2.4",

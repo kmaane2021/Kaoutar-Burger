@@ -149,7 +149,7 @@ Eat it!! </button></div> : null
   
     ) : null}
 
-<h1>Burgers Made</h1>
+<h1>Burgers Eaten</h1>
 
 
 
